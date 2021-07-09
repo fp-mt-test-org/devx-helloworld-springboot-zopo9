@@ -1,0 +1,5 @@
+config:
+  host: devx-helloworld-springboot-zopo9.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  image:
+    name: artifactory.flexport.io/devx-helloworld-springboot-zopo9-docker-dev-local/devx-helloworld-springboot-zopo9
+    tag: 0.0.1-SNAPSHOT
